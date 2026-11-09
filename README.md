@@ -1,6 +1,19 @@
+<p align="center">
+  <img src="https://media.base44.com/images/public/6ab04df4b7345d43a3caf080/dd74a711d_night-bandit-character-v1.png" alt="NIGHT BANDIT in the Raccoon Factory" width="960">
+</p>
+
 # NIGHT BANDIT
 
-A Windows desktop application from [Frontline Consultant](https://frontlineconsultant.com) for synchronizing one explicitly selected text file to a GitHub repository. Crimson-and-black workspaces, local Git history and diffs, clear activity records, and a Windows tray listener.
+### One file. Clear scope. Verified sync.
+
+A Windows desktop tool from [Frontline Consultant](https://frontlineconsultant.com) that synchronizes one explicitly selected text file to GitHub. Review the scope, run a dry-run, and authorize a session. Follow each change through local history, diffs and remote verification.
+
+[How To on Frontline](https://frontlineconsultant.com/docs/night-bandit-how-to) · [Latest release](https://github.com/kjohnsonthecoder/Night-Bandit/releases/latest) · [Setup](#download-and-run) · [Workflow](#first-repository) · [Updates](#check-for-updates)
+
+| Focused automation | Visible control | Traceable results |
+| --- | --- | --- |
+| One selected text file per scope | Reviewed dry-run and session approval | Local history, diffs and verified remote success |
+| Windows tray listener | Stop and Exit controls | Clear activity and recovery blockers |
 
 **Version 0.3.1 — early source release.** Code and branding are **all rights reserved**, not open source. Third-party fonts retain their own licenses. No subscription is required.
 
