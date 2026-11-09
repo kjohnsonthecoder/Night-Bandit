@@ -1,0 +1,19 @@
+{
+  "files": {
+    "icon-source.png": {
+      "sha256": "40d455580991b9727961d0b28fc09571f6b19777296d520f41acf4c6af9ae8ff"
+    },
+    "icon-transparent-candidate-v1.png": {
+      "sha256": "1bf96af77d572c469aa18b3381f36f0e877645f48e3df410e9cebd0ba722d14a"
+    },
+    "background-source.png": {
+      "sha256": "3bf6d00cfecad742e0e9ec924e04de4d68bc65364e8dcc61d0dc827c2e5d34fc"
+    }
+  },
+  "transparent_display_bbox": [
+    133,
+    84,
+    1179,
+    1233
+  ]
+}
