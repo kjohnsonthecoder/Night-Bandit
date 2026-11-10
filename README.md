@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.base44.com/images/public/6ab04df4b7345d43a3caf080/dd74a711d_night-bandit-character-v1.png" alt="NIGHT BANDIT in the Raccoon Factory" width="960">
+  <img src="assets/branding/night-bandit-context-continuity-crimson-v1.png" alt="NIGHT BANDIT — Context Continuity for AI Projects" width="960">
 </p>
 
 # NIGHT BANDIT
